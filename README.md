@@ -1,5 +1,8 @@
 **郑重声明：项目经过本地测试，确保可以运行。项目仅供学习和毕业设计参考~**
-![输入图片说明]("https://github.com/Learning-Journey-Treasures/bs029/blob/main/qrcode_for_gh_1266b4b5294a_258.jpg") **微信扫码关注发送BS029，获得源码**💕🤞
+
+![image text](https://github.com/Learning-Journey-Treasures/bs029/blob/main/qrcode_for_gh_1266b4b5294a_258.jpg "DBSCAN Performance Comparison")
+
+ **微信扫码关注发送BS029，获得源码**💕🤞
 #### 1.项目介绍
 
 技术栈+环境：SSM + jsp + tomcat8.5 + idea2022 + jdk8
